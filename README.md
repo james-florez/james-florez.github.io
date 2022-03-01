@@ -1,5 +1,6 @@
-# james-florez.github.io
+# HTML5Up - Prologue
+Sourced From: https://html5up.net
 
-This is the repository for the personal website of James Florez. Please visit at james-florez.github.io
-For more information about me check out my github profile.
-To view more of my projects please check out my other repositories.
+To demo this template:
+https://kmsc.github.io/HTML5UpPrologue/
+
