@@ -30,6 +30,8 @@ Credits:
 	Demo Images:
 		Felicia Simion (ineedchemicalx.deviantart.com)
 		Unsplash (unsplash.com)
+		Photo by <a href="https://unsplash.com/@fiveamstories?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Shutin</a> on <a href="https://unsplash.com/s/photos/mountains?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
 	Icons:
 		Font Awesome (fontawesome.io)
